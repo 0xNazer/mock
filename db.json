@@ -1,0 +1,12 @@
+{
+  "reports": [
+    {
+      "id": 0,
+      "pilgrimId": 0,
+      "result": "OOOOOONNNNO",
+      "healthy": true,
+      "doctorId": 0,
+      "doctorName": "First Last / name"
+    }
+  ]
+}
